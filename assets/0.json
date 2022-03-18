@@ -1,0 +1,20 @@
+{
+    "name": "Frat Furball",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "53yJteWrZk79qPJS3pRkyT4SijJ5qYKDyt5PNkQ7zvx3",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {"name": "manic monsters", "family": "manic monsters"}
+  }
